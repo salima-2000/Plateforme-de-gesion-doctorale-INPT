@@ -1,1 +1,1 @@
-Ce répertoire est le code source d'une application web pour la gestion de centre d’études doctorales de l’institut des postes et télécommunications développée dans le cadre de projet de fin d'année de la première année .
+Ce répertoire contient le code source d'une application web pour la gestion de centre d’études doctorales de l’institut des postes et télécommunications développée dans le cadre de projet de fin d'année de la première année .
